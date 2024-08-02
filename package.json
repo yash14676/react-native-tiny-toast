@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-tiny-toast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Tiny Toast for android and ios",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,13 @@
     "url": "git+https://github.com/yash14676/react-native-tiny-toast.git"
   },
   "keywords": [
-    "Toast"
+    "toast",
+    "tiny toast",
+    "custom tiny toast",
+    "react-native-tiny-toast",
+    "react-native-custom-tiny-toast",
+    "react native tiny toast",
+    "react native custom tiny toast"
   ],
   "author": "Yashwant Manchekar",
   "license": "ISC",
