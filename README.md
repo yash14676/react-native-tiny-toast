@@ -24,7 +24,7 @@ Install the package via npm:
 Import the component:
 
 ```javascript
-    import Toast from 'react-native-tiny-toast'
+    import Toast from 'react-native-custom-tiny-toast'
     
     Toast.show('Default Toast')
     
