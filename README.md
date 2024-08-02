@@ -1,4 +1,4 @@
-"# react-native-tiny-toast" 
+"# react-native-custom-tiny-toast" 
 
 
 ## Install
