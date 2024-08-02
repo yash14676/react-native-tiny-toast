@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-tiny-toast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native Tiny Toast for android and ios",
   "main": "index.js",
   "scripts": {
