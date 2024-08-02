@@ -11,11 +11,11 @@ Install the package via npm:
 
 
 ## Configure
-    Wrap Toast Component inside root component.
+    import { RootSiblingParent } from 'react-native-root-siblings'
 ```jsx
-    <App>
-        <Toast />
-    </App>
+    <RootSiblingParent>
+        <App />
+    </RootSiblingParent>
 ```
 
 
